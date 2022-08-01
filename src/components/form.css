@@ -1,0 +1,12 @@
+.paper-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    gap: .5rem;
+    align-items: flex-end;
+}
+
+.addButton {
+    max-width: 50%;
+    
+}
